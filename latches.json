@@ -1,0 +1,5 @@
+[
+    "./latchesPub",
+    "./latchesPriv",
+    "./tests/latches"
+]

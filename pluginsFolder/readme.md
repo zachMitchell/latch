@@ -1,0 +1,1 @@
+Plugins extend the functionality of latches. They can either work behind the scenes, running before or after a path has been run, or it can extend what a path can do while it's running.
